@@ -1,4 +1,3 @@
 # ExceptionHandler
-ExceptionHandler
 
-Global exception handlers in C#.
+Exception handlers in C#.
